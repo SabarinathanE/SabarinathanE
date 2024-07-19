@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabarinathane&label=Profile%20views&color=0e75b6&style=flat" alt="sabarinathane" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sabarinathane" alt="sabarinathane" /></a> </p>
-
 - 🌱 I’m currently learning **Javascript, MERN**
 
 - 👨‍💻 All of my projects are available at [https://superlative-croissant-a66c27.netlify.app/](https://superlative-croissant-a66c27.netlify.app/)
